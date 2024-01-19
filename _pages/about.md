@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 --- 
 
-Currently, I am a 3rd year Informatics student at the University of California, Irvine (UCI) specializing in Human-Computer Interaction (HCI). I am also an undergraduate researcher. Some of my research intereats include
+Currently, I am a 3rd year Informatics student at the University of California, Irvine (UCI) specializing in Human-Computer Interaction (HCI). I am also an undergraduate researcher. Some of my research interests include
 
-1. 
+1.
 Infomartion Retrieval and Visualization
 
 2.
