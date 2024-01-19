@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 --- 
 
-Currently, I am a 3rd year Informatics student at the University of California, Irvine (UCI) specializing in Human-Computer Interaction (HCI). I am also an undergraduate researcher. Some of my research intereats include infomartion retrieval, human-computer interaction, infomartion visualization, and content-rich user interfaces.   
+Currently, I am a 3rd year Informatics student at the University of California, Irvine (UCI) specializing in Human-Computer Interaction (HCI). I am also an undergraduate researcher. Some of my research intereats include 
+1. 
+infomartion retrieval, human-computer interaction, infomartion visualization, and content-rich user interfaces.   
 
 Presently, I am conducting research on how Large Language Models can augment reflective thematic analysis for semi-structured interviews. As a result, I am working under the Social & Technological Action Research (STAR) Lab. It is ran by the Vice Provost for Graduate Education and Dean of the Graduate Division at UC Irvine, Dean Gillian Hayes. 
