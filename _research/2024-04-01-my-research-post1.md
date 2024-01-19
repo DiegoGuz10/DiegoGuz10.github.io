@@ -3,6 +3,6 @@ title: "Using Large Language Models to Augment Reflective Thematic Analysis for 
 collection: research
 type: "Research"
 venue: "National Conference on Undergraduate Research 2024"
-date: Upcoming
+date: 2024-04-01
 location: "Long Beach, California"
 ---
