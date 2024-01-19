@@ -1,4 +1,4 @@
-<!-- {% include base_path %}
+{% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
@@ -43,11 +43,11 @@
       </li>
     {% endfor %}
   </ul>
-</nav> -->
+</nav>
 
 
 
-{% assign navigation = site.data.navigation[include.nav] %}
+<!-- {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
@@ -93,4 +93,4 @@
       {% endunless %}
     {% endfor %}
   </ul>
-</nav>
+</nav> -->
