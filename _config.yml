@@ -214,13 +214,13 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: single 
       author_profile: true
       share: true
       comments: true
   #_publications
   - scope:
-      path: "https://www.nba.com/"
+      path: ""
       type: publications
     values:
       layout: single
