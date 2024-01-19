@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diego Guzman"
 title_separator          : "-"
 name                     : &name "Diego Guzman"
-description              : &description "Informatics Undergradate Student and Researcher at University of California, Irvine"
+description              : &description "Informatics Undergradate Student and Researcher at the University of California, Irvine"
 url                      : https://diegoguz10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Diego Guzman"
   avatar           : "profile.png"
-  bio              : "Informatics Undergradate Student and Researcher at University of California, Irvine"
+  bio              : "Informatics Undergradate Student and Researcher at the University of California, Irvine"
   location         : "Irvine, California"
   employer         :
   pubmed           : 
