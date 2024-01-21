@@ -115,7 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : Diego_Guzman_CV.pdf
+  CV               : 
+    path: "Diego_Guzman_CV.pdf"
+    label: "Download CV"
 
 
 # Reading Files
