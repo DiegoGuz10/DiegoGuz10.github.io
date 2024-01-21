@@ -117,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.CV %}
+        <li><a href="{{ author.CV }}"><i class="ai ai-CV-square ai-fw" aria-hidden="true"></i> My CV</a></li>
 {% endif %}
     </ul>
   </div>
