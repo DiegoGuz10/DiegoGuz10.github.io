@@ -39,9 +39,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching'%}
-          <p> <i>{{ post.link }}</i>, {{ post.Languages }} </p>
-        {% if post.collection == 'projects'%}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.dateString }} </p>
+        {% if post.collection == 'projects'%}
+          <p> <i>{{ post.link }}</i>, {{ post.Languages }} </p>
         {% elsif post.collection == 'research' and post.upcoming == 'true' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ "Upcoming" }} </p>
         {% elsif post.collection == 'research'%}
