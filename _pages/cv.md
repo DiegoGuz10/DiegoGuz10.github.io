@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For more information about me, please see my CV: "Diego_Guzman_CV.pdf"
+For more information about me, please see my [CV](Diego_Guzman_CV.pdf).
+
 
 
