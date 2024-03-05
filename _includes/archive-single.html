@@ -43,7 +43,7 @@
         {% elsif post.collection == 'projects'%}
           <p> {{ post.languages }}. <a href="{{ post.link }}">Here is the link!</a> </p>
         {% elsif post.collection == 'research' and post.upcoming == 'true' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ "Upcoing: }}{post.dateString} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{"Upcoing:"}}{{post.dateString}} </p>
         {% elsif post.collection == 'research'%} }
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{post.dateString}}</p>
         {% elsif post.collection == 'publications' %}
