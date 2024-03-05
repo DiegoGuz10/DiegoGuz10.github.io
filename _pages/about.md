@@ -17,6 +17,6 @@ Information Retrieval and Visualization
 Human-Computer Interaction 
 
 3.
-Content-Rich User Interfaces.   
+Content-Rich User Interfaces   
 
 At the moment, I am conducting research on how Large Language Models can augment reflective thematic analysis for semi-structured interviews. As a result, I am working under the Social & Technological Action Research (STAR) Lab. It is ran by the Vice Provost for Graduate Education and Dean of the Graduate Division at UC Irvine, Dean Gillian Hayes. 
